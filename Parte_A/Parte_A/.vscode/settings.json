@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "zhelpers.h": "c",
+        "remote-char.h": "c"
+    }
+}
